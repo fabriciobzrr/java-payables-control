@@ -1,0 +1,6 @@
+id;descricao;valor;dataVencimento;dataPagamento;status;categoria;fornecedor
+1;luz;200,00;30-04-2026;;EM_ABERTO;ENERGIA_ELETRICA;rge
+2;agua;100,00;30-04-2026;;EM_ABERTO;AGUA_ESGOTO;corsan
+3;uber;100,00;30-04-2026;;EM_ABERTO;TRANSPORTE;Uber
+4;internet;115,00;30-04-2026;26-04-2026;PAGA;INTERNET_TELEFONIA;Vero
+5;cartao;100,00;30-03-2026;;ESTORNO;OUTROS;Nubank
